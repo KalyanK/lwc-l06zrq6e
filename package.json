@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/kalyank.lwc-l06zrq6e",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve seaF44YDuZWa12kJpCl8 --open"
+  }
+}
